@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/simran2142/workflows.git"
   },
-  "author": "Simranjit",
+  "author": "bvmCoder",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
